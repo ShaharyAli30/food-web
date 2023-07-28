@@ -1,0 +1,189 @@
+@font-face {
+	font-family:grand ;
+	src: url(./Corvit_Akhuwat-main/chickenGrill/fonts/GrandHotel-Regular.otf);
+}
+
+.header_bg{
+	background-image: url('header.png');
+	background-size: 100%;
+}
+.header_bg_right{
+	background-color: #303030;
+}
+.header_right_bg{
+	background-image: url('title_background.png');
+	background-size: 80%;
+}
+.menu{
+	height: 50px;
+}
+.test{
+	height: 850px;
+	
+}
+.test img{
+	padding: 30px;
+}
+.food{
+	color: #F6C443;
+	font-family: 'grand';
+	padding-top: 90px;
+	text-shadow: 3px 3px 5px white;
+}
+.paragraph{
+	color: white;
+}
+.btn {
+	padding-right: 20px;
+	color: rgb(20, 21, 21);
+	font-family: fantasy;
+}
+ .heading{
+   padding: 20px;
+   font-family:'grand';
+}
+ 
+.img1{
+	padding-top: 30px;
+
+}
+.nug{
+	padding-top: 10px;
+	padding-left: 60px;
+	font-family: 'grand';
+} 
+.nuglines{
+	padding-top: 10px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.kab{
+	padding-top: 10px;
+	padding-left: 60px;
+	font-family: 'grand';
+}
+.img2{
+	padding-top: 30px;
+
+}
+.kablines{
+	padding-top: 10px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.Chowmin{
+	padding-top: 10px;
+	padding-left: 60px;
+	font-family: 'grand';
+}
+.img3{
+	padding-top: 30px;
+
+}
+.chowlines{
+	padding-top: 10px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.orien{
+	padding-top: 280px;
+}
+.taste{
+	position:absolute;
+	top: 240%;
+	left: 150px;
+}
+.tastetext1{
+	position:absolute;
+	top: 260%;
+	left: 960px;
+	color: rgb(242, 211, 13);
+	font-family: grand;
+	
+}
+.tastepara{
+	position:absolute;
+	top: 270%;
+	left: 960px;
+	color: rgb(230, 229, 226);	
+}
+.butt2
+{
+	position:absolute;
+	top: 280%;
+	left: 990px;
+
+}
+
+.stat{
+	padding: 10px;
+	position:absolute;
+	top: 300%;
+	width: 90%;
+	height: 90%;
+	
+}
+.back2img{
+	position: absolute;
+	width: 100%;
+	height: 500px;
+	top: 393%;
+	background-image: url('images/chickenGrill.png');
+}
+.stattextt
+{
+	color: #F6C443;
+	font-family: grand;
+	position: absolute;
+	top: 305%;
+	left: 600px;
+}
+.statpara{
+	color: azure;
+	font-family: Arial, Helvetica, sans-serif;
+         
+	position: absolute;
+	top: 315%;
+	left: 340px;
+}
+.outlets{
+	border: 5px solid white;
+	padding: 30px;
+	color: #F6C443;
+	border-radius: 100%;
+	position: absolute;
+	top: 335%;
+	left: 310px;
+}
+
+.outlets1{
+	border: 5px solid white;
+	padding: 30px;
+	color: #F6C443;
+	border-radius: 100%;
+	position: absolute;
+	top: 335%;
+	left: 465px;
+}
+.outlets2{
+	border: 5px solid white;
+	padding: 30px;
+	color: #F6C443;
+	border-radius: 100%;
+	position: absolute;
+	top: 335%;
+	left: 610px;
+}
+.outlets3{
+	border: 5px solid white;
+	padding: 30px;
+	color: #F6C443;
+	border-radius: 100%;
+	position: absolute;
+	top: 335%;
+	left: 750px;
+}
+
+
+
+
+
+
+
